@@ -9,7 +9,7 @@ termos de busca podem ser tipo palavras (P) ou tipo frase (F)
 termos = [
     {"signo": "I", "tipo": "F", "termo": "grande são paulo"},
     {"signo": "I", "tipo": "F", "termo": "são paulo"},
-    {"signo": "I", "tipo": "P", "termo": "covid vacina"},
+    {"signo": "I", "tipo": "P", "termo": "vacina covid"},
     {"signo": "I", "tipo": "P", "termo": "calendário vacina covid"},
     {"signo": "E", "tipo": "P", "termo": "futebol"},
     {"signo": "E", "tipo": "P", "termo": "gripe"},
